@@ -1,5 +1,0 @@
-This is to test the merge conflict.
-
-
-Please don't clone this repository.Otherwise you will see the conflict!!!!!!!!!!
-
